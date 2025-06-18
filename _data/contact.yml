@@ -1,5 +1,10 @@
 #  The contact options.
 
+-
+  type: links
+  icon: 'fa-solid fa-link'
+  url:  'https://linktr.ee/MiguelAngelDonado'
+
 - type: linkedin
   icon: 'fab fa-linkedin'
   url: 'https://www.linkedin.com/in/miguel-%C3%A1ngel-donado-fern%C3%A1ndez/'
